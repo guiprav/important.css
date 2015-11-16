@@ -1,0 +1,88 @@
+/*
+    License: AGPL-3.0+
+
+    Copyright 2015 Guilherme Prá Vieira (super.driver.512 [at] gmail.com)
+
+    important.css is free software: you can redistribute it and/or modify it
+    under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or (at your
+    option) any later version.
+*/
+
+.pl {
+    float: left !important;
+}
+
+.pr {
+    float: right !important;
+}
+
+.cl {
+    clear: left !important;
+}
+
+.cr {
+    clear: right !important;
+}
+
+.cb {
+    clear: both !important;
+}
+
+.cf:after {
+    content: '' !important;
+    display: table !important;
+    clear: both !important;
+}
+
+.rel {
+    position: relative !important;
+}
+
+.abs {
+    position: absolute !important;
+}
+
+.fixed {
+    position: fixed !important;
+}
+
+.il {
+    display: inline !important;
+}
+
+.bl {
+    display: block !important;
+}
+
+.ilbl {
+    display: inline-block !important;
+}
+
+.wide {
+    width: 100% !important;
+}
+
+.tall {
+    height: 100% !important;
+}
+
+.b {
+    font-weight: bold !important;
+}
+
+.l {
+    font-weight: 300 !important;
+}
+
+.i {
+    font-style: italic !important;
+}
+
+.u {
+    text-decoration: underline !important;
+}
+
+.s {
+    text-decoration: line-through !important;
+}
